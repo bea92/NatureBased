@@ -3,7 +3,7 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
+    "file": "https://drive.google.com/file/d/1jKmLFQ5BdqwprgayAe2Kz-wmCrIAkate/view?usp\u003dsharing",
     "link": "",
     "text": ""
   },
@@ -14,12 +14,12 @@
   },
   "legend": {
     "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "colorLabel": "Channel Type",
+    "nodeLabel": "Video "
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "videoCategoryLabel (type 1)",
     "hoverBehavior": "default"
   },
   "informationPanel": {
